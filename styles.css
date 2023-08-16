@@ -62,3 +62,17 @@ body {
        -o-transition-duration: 1.5s;
           transition-duration: 1.5s;
 }
+
+.copyright {
+  top: 97%;
+  color: #d4d4d4;
+  position: absolute;
+}
+
+.copyright > a {
+  color: #2787f5;
+}
+
+.copyright > a:hover {
+  text-decoration: underline;
+}
